@@ -1,5 +1,6 @@
-/** Divider
-*   Anderson, Franceschi
+/* Divider
+   Anderson, Franceschi
+   Mark Johnson
 */
 
 import java.awt.Graphics;
