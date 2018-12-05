@@ -1,5 +1,6 @@
 /* Cart
-*  Anderson, Franceschi
+   Anderson, Franceschi
+   Mark Johnson
 */
 import javax.swing.JFrame;
 import java.awt.Graphics;
