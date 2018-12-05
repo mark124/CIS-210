@@ -1,5 +1,6 @@
 /* A simple date class
    Anderson, Franceschi
+   Mark Johnson
 */
 
 public class SimpleDate
