@@ -1,5 +1,6 @@
 /* PrintArrayT.java
-* Anderson, Franceschi
+   Anderson, Franceschi
+   Mark Johnson
 */
 
 public class PrintArrayT extends Thread
